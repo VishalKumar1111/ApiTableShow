@@ -1,0 +1,6 @@
+framework module Pods_ApiTableShow {
+  umbrella header "Pods-ApiTableShow-umbrella.h"
+
+  export *
+  module * { export * }
+}
